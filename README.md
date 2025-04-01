@@ -17,7 +17,7 @@ STIWS 是一款专为中药质谱解析设计的辅助工具，整合了多源�
   - 全库匹配模式
 
 <div align="center">
-  <img src="https://github.com/67520/STIWS/blob/main/image/%E6%AF%8D%E7%A6%BB%E5%AD%90%E5%8C%B9%E9%85%8D.png" width="500">
+  <img src="https://github.com/67520/STIWS/blob/main/image/%E6%AF%8D%E7%A6%BB%E5%AD%90%E5%8C%B9%E9%85%8D.png" width="700">
   <p><em>图3. 母离子匹配功能界面</em></p>
 </div>
    
@@ -33,7 +33,7 @@ STIWS 是一款专为中药质谱解析设计的辅助工具，整合了多源�
   通过 ESI-MS 快速鉴定已知化合物
 
 <div align="center">
-  <img src="https://github.com/67520/STIWS/blob/main/image/%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2-%E9%89%B4%E5%AE%9A.png" width="500">
+  <img src="https://github.com/67520/STIWS/blob/main/image/%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2-%E9%89%B4%E5%AE%9A.png" width="700">
   <p><em>图5. 谱图鉴定功能界面</em></p>
 </div>
 
