@@ -1,13 +1,10 @@
 # STIWS - 中药质谱解析工具
-
-![Overview](https://github.com/67520/D-CyPre/blob/master/overview.png)
-
-STIWS 是一款专为中药质谱解析设计的专业工具，整合了多源数据库和智能匹配算法，助力中药成分分析与鉴定。
+STIWS 是一款专为中药质谱解析设计的辅助工具，整合了多源数据库和机器学习算法，助力中药成分分析与鉴定。
 
 ## ✨ 核心功能
 
 - **中药成分数据库查询**  
-  整合 ETCM、TCMSP、Herb 及 TM-MC 四大权威数据库
+  整合 ETCM、TCMSP、Herb 及 TM-MC 等中药成分数据库
 - **母离子精准匹配**  
   - 目标药材匹配模式  
   - 混合匹配模式  
