@@ -22,7 +22,7 @@ STIWS 是一款专为中药质谱解析设计的辅助工具，整合了多源�
 </div>
    
 - **3. 未知化合物识别**  
-  基于 ESI-MS 靶向识别特定类型未知成分
+  基于 ESI-MS 靶向识别特定类型未知化合物
 
 <div align="center">
   <img src="https://github.com/67520/STIWS/blob/main/image/%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2-%E9%9D%B6%E5%90%91%E8%AF%86%E5%88%AB.png" width="500">
